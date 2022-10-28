@@ -1,1 +1,2 @@
 # odin-recipes
+i was having a great time with odin project. i appreciate all the Creator of odin project.and also i practiced a lot of things some of them are :- how to add links and images in your website, how to add your website in github,the use html,body,head so many keywords.......now i am going to create a website called odin recipes 
